@@ -1,0 +1,9 @@
+# robots.txt for https://zeronix.space/
+User-agent: *
+Allow: /
+
+# Host
+Host: https://zeronix.space
+
+# Sitemaps
+Sitemap: https://zeronix.space/sitemap.xml
